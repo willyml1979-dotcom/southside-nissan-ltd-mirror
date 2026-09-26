@@ -1,0 +1,261 @@
+{
+  "dealership": "Southside Nissan Ltd",
+  "generated_at": "2026-09-26T03:04:12",
+  "vehicle_count": 24,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "ARIYA ENGAGE FWD2024 Nissan",
+      "vin": "JN1AF0BA6RM433355",
+      "stock": "N211034",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/1fac0c713923.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39158052",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39158052?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T01:43:47",
+      "odometer_km": 21122,
+      "condition": "used"
+    },
+    {
+      "name": "Kicks S2024 Nissan",
+      "vin": "3N1CP5BV2RL568154",
+      "stock": "N226203",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/4194d860c5c1.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/kicks/2024-nissan-kicks-id39221253",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/kicks/2024-nissan-kicks-id39221253?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T01:44:01",
+      "odometer_km": 43740,
+      "condition": "used"
+    },
+    {
+      "name": "Kicks SR2025 Nissan",
+      "vin": "3N8AP6DD0SL344499",
+      "stock": "N226103",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/4e5687f90834.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/kicks/2025-nissan-kicks-id39055352",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/kicks/2025-nissan-kicks-id39055352?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T01:44:17",
+      "odometer_km": 31180,
+      "condition": "used"
+    },
+    {
+      "name": "Leaf Plus SL2023 Nissan",
+      "vin": "1N4CZ1DV5PC556429",
+      "stock": "N226104",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/be2d37502829.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/leaf/2023-nissan-leaf-id39228362",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/leaf/2023-nissan-leaf-id39228362?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T01:44:31",
+      "odometer_km": 16295,
+      "condition": "used"
+    },
+    {
+      "name": "Murano Platinum2023 Nissan",
+      "vin": "5N1AZ2DS0PC122721",
+      "stock": "N226102",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/21434725e660.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/murano/2023-nissan-murano-id39139532",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/murano/2023-nissan-murano-id39139532?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T01:44:45",
+      "odometer_km": 56006,
+      "condition": "used"
+    },
+    {
+      "name": "Pathfinder SV V6 4x4 at2023 Nissan",
+      "vin": "5N1DR3BE4PC247141",
+      "stock": "N226201",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/ed9c735e3b66.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/pathfinder/2023-nissan-pathfinder-id38835045",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/pathfinder/2023-nissan-pathfinder-id38835045?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T01:45:01",
+      "odometer_km": 77221,
+      "condition": "used"
+    },
+    {
+      "name": "Pathfinder SL2024 Nissan",
+      "vin": "5N1DR3CE2RC286036",
+      "stock": "N226201",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/d7249e4ff0af.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/pathfinder/2024-nissan-pathfinder-id38684746",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/pathfinder/2024-nissan-pathfinder-id38684746?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T01:45:19",
+      "odometer_km": 70287,
+      "condition": "used"
+    },
+    {
+      "name": "Rogue SV2023 Nissan",
+      "vin": "JN8BT3BB3PW217604",
+      "stock": "N226101",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/e1b928de33ae.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id38394205",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id38394205?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T01:45:34",
+      "odometer_km": 56420,
+      "condition": "used"
+    },
+    {
+      "name": "Rogue AWD SL2024 Nissan",
+      "vin": "JN8BT3CB1RW281867",
+      "stock": "N212034",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/2e9328ac8b72.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/rogue/2024-nissan-rogue-id39116844",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/rogue/2024-nissan-rogue-id39116844?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T01:45:50",
+      "odometer_km": 13289,
+      "condition": "used"
+    },
+    {
+      "name": "Rogue S2024 Nissan",
+      "vin": "JN8BT3AB7RW436103",
+      "stock": "N211034",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/2e8a869a3213.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/rogue/2024-nissan-rogue-id39253386",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/rogue/2024-nissan-rogue-id39253386?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T01:46:05",
+      "odometer_km": 28167,
+      "condition": "used"
+    },
+    {
+      "name": "Sentra SR2024 Nissan",
+      "vin": "3N1AB8DV0RY336725",
+      "stock": "N211034",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/09c27623ff71.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/sentra/2024-nissan-sentra-id39123542",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/sentra/2024-nissan-sentra-id39123542?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T01:46:22",
+      "odometer_km": 29034,
+      "condition": "used"
+    },
+    {
+      "name": "Z Performance Manual2024 Nissan",
+      "vin": "JN1BZ4BH5RM364996",
+      "stock": "N22F000",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/702d1de93393.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/z/2024-nissan-z-id38973382",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/z/2024-nissan-z-id38973382?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T01:46:36",
+      "odometer_km": 13040,
+      "condition": "used"
+    },
+    {
+      "name": "ARIYA SV FWD2027 Nissan",
+      "vin": "JN8AF0BE0VM630052",
+      "stock": "N227104",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/fabac887124a.html",
+      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/ariya/2027-nissan-ariya-id39200235?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/ariya/2027-nissan-ariya-id39200235?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T03:01:11",
+      "condition": "new"
+    },
+    {
+      "name": "Kicks S FWD2027 Nissan",
+      "vin": "3N8AP6BE3VL300920",
+      "stock": "N227104",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/4596edab4fcc.html",
+      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39178057?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39178057?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T03:01:25",
+      "condition": "new"
+    },
+    {
+      "name": "LEAF S+2027 Nissan",
+      "vin": "JN1AZ2BA2VM400334",
+      "stock": "N227104",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/471c3b1b083b.html",
+      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39158081",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39158081?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T03:01:41",
+      "condition": "new"
+    },
+    {
+      "name": "LEAF S+2027 Nissan",
+      "vin": "JN1AZ2BA4VM400058",
+      "stock": "N227104",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/8cf02caf8402.html",
+      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39163261",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39163261?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T03:01:56",
+      "condition": "new"
+    },
+    {
+      "name": "LEAF SV+2027 Nissan",
+      "vin": "JN1AZ2CA5VM400472",
+      "stock": "N227104",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/be631ee47b6f.html",
+      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39163263",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39163263?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T03:02:10",
+      "condition": "new"
+    },
+    {
+      "name": "LEAF SV+2027 Nissan",
+      "vin": "JN1AZ2CA7VM400697",
+      "stock": "N227104",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/e1b4c12e6747.html",
+      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39178053",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39178053?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T03:02:25",
+      "condition": "new"
+    },
+    {
+      "name": "LEAF S2027 Nissan",
+      "vin": "JN1BZ2BA5VM401305",
+      "stock": "N227104",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/48e1924b766b.html",
+      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39178055",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39178055?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T03:02:42",
+      "condition": "new"
+    },
+    {
+      "name": "LEAF S2027 Nissan",
+      "vin": "JN1BZ2BA8VM400813",
+      "stock": "N227104",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/4e1a2c3b8167.html",
+      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39178063",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39178063?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T03:02:57",
+      "condition": "new"
+    },
+    {
+      "name": "LEAF S2027 Nissan",
+      "vin": "JN1BZ2BA5VM400106",
+      "stock": "N227104",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/6d94bbf95426.html",
+      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39178064",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39178064?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T03:03:13",
+      "condition": "new"
+    },
+    {
+      "name": "LEAF S2027 Nissan",
+      "vin": "JN1BZ2BA2VM401066",
+      "stock": "N227104",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/c57c9f20b7bf.html",
+      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39178065",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2027-nissan-leaf-id39178065?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T03:03:27",
+      "condition": "new"
+    },
+    {
+      "name": "Murano Dark Armor2027 Nissan",
+      "vin": "5N1AZ3CS3VC103410",
+      "stock": "N227104",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/f8ed5a96c129.html",
+      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/murano/2027-nissan-murano-id39246624?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/murano/2027-nissan-murano-id39246624?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T03:03:42",
+      "condition": "new"
+    },
+    {
+      "name": "Z Nismo 6MT2027 Nissan",
+      "vin": "JN1BZ4CH8VM550900",
+      "stock": "N226103",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/050fbf963015.html",
+      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/z/2027-nissan-z-id38937775?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/z/2027-nissan-z-id38937775?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T03:03:56",
+      "condition": "new"
+    }
+  ]
+}
