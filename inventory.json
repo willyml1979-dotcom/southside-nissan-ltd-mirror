@@ -1,6 +1,6 @@
 {
   "dealership": "Southside Nissan Ltd",
-  "generated_at": "2026-09-26T11:56:59",
+  "generated_at": "2026-09-27T01:51:51",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -12,7 +12,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/1fac0c713923.html",
       "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39158052",
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39158052?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:43:47",
+      "last_verified": "2026-09-27T01:51:40",
       "odometer_km": 21122,
       "condition": "used"
     },
@@ -28,6 +28,17 @@
       "condition": "used"
     },
     {
+      "name": "Kicks S FWD2024 Nissan",
+      "vin": "3N1CP5BV8RL555926",
+      "stock": "N212035",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/0b5c4e3cadfe.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/kicks/2024-nissan-kicks-id39260690",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/kicks/2024-nissan-kicks-id39260690?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T01:47:32",
+      "odometer_km": 18827,
+      "condition": "used"
+    },
+    {
       "name": "Kicks SR2025 Nissan",
       "vin": "3N8AP6DD0SL344499",
       "stock": "N226103",
@@ -36,17 +47,6 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/kicks/2025-nissan-kicks-id39055352?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T01:44:17",
       "odometer_km": 31180,
-      "condition": "used"
-    },
-    {
-      "name": "Leaf Plus SL2023 Nissan",
-      "vin": "1N4CZ1DV5PC556429",
-      "stock": "N226104",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/be2d37502829.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/leaf/2023-nissan-leaf-id39228362",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/leaf/2023-nissan-leaf-id39228362?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:44:31",
-      "odometer_km": 16295,
       "condition": "used"
     },
     {
@@ -83,17 +83,6 @@
       "condition": "used"
     },
     {
-      "name": "Rogue SV2023 Nissan",
-      "vin": "JN8BT3BB3PW217604",
-      "stock": "N226101",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/e1b928de33ae.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id38394205",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id38394205?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:45:34",
-      "odometer_km": 56420,
-      "condition": "used"
-    },
-    {
       "name": "Rogue AWD SL2024 Nissan",
       "vin": "JN8BT3CB1RW281867",
       "stock": "N212034",
@@ -116,14 +105,25 @@
       "condition": "used"
     },
     {
-      "name": "Sentra SR2024 Nissan",
-      "vin": "3N1AB8DV0RY336725",
-      "stock": "N211034",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/09c27623ff71.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/sentra/2024-nissan-sentra-id39123542",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/sentra/2024-nissan-sentra-id39123542?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:46:22",
-      "odometer_km": 29034,
+      "name": "Sentra SV CVT2024 Nissan",
+      "vin": "3N1AB8CV5RY346877",
+      "stock": "N212034",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/96f489e3c18f.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/sentra/2024-nissan-sentra-id39260688",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/sentra/2024-nissan-sentra-id39260688?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T01:47:46",
+      "odometer_km": 58331,
+      "condition": "used"
+    },
+    {
+      "name": "Sentra S Plus CVT2024 Nissan",
+      "vin": "3N1AB8BVXRY342115",
+      "stock": "N212035",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/efec20f21735.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/sentra/2024-nissan-sentra-id39260691",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/sentra/2024-nissan-sentra-id39260691?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T01:48:02",
+      "odometer_km": 6096,
       "condition": "used"
     },
     {
