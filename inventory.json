@@ -1,7 +1,7 @@
 {
   "dealership": "Southside Nissan Ltd",
-  "generated_at": "2026-10-18T00:13:46",
-  "vehicle_count": 1343,
+  "generated_at": "2026-10-18T17:15:01",
+  "vehicle_count": 1326,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -129,7 +129,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/39000dd1cc89.html",
       "source_url": "https://www.southsidenissan.ca/en/used-inventory/acura/integra/2026-acura-integra-id39056691",
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/acura/integra/2026-acura-integra-id39056691?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T07:37:14",
+      "last_verified": "2026-10-18T17:11:14",
       "odometer_km": 5432,
       "condition": "used",
       "city": "Vancouver",
@@ -142,7 +142,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/885bb4001c1b.html",
       "source_url": "https://www.southsidenissan.ca/en/used-inventory/acura/integra/2026-acura-integra-id39308885",
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/acura/integra/2026-acura-integra-id39308885?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T07:37:30",
+      "last_verified": "2026-10-18T17:11:30",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -154,7 +154,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/6e26868f57b6.html",
       "source_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2016-acura-mdx-id39199808",
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2016-acura-mdx-id39199808?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T07:37:44",
+      "last_verified": "2026-10-18T17:11:45",
       "odometer_km": 122577,
       "condition": "used",
       "city": "Vancouver",
@@ -167,7 +167,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/e9f27b393646.html",
       "source_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2017-acura-mdx-id39297595",
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2017-acura-mdx-id39297595?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T07:37:58",
+      "last_verified": "2026-10-18T17:11:59",
       "odometer_km": 103339,
       "condition": "used",
       "city": "Vancouver",
@@ -180,7 +180,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/47b5cd13be78.html",
       "source_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2019-acura-mdx-id39368069",
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2019-acura-mdx-id39368069?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T07:38:12",
+      "last_verified": "2026-10-18T17:12:14",
       "odometer_km": 102400,
       "condition": "used",
       "city": "Vancouver",
@@ -193,7 +193,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/801066dcced6.html",
       "source_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2022-acura-mdx-id39325562",
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2022-acura-mdx-id39325562?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T07:38:28",
+      "last_verified": "2026-10-18T17:12:29",
       "odometer_km": 66062,
       "condition": "used",
       "city": "Vancouver",
@@ -206,7 +206,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/bca52714801d.html",
       "source_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2023-acura-mdx-id39056693",
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2023-acura-mdx-id39056693?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T07:38:42",
+      "last_verified": "2026-10-18T17:12:43",
       "odometer_km": 44050,
       "condition": "used",
       "city": "Vancouver",
@@ -219,7 +219,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/0644476ff32e.html",
       "source_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2023-acura-mdx-id39069290",
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2023-acura-mdx-id39069290?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T07:38:57",
+      "last_verified": "2026-10-18T17:13:00",
       "odometer_km": 76021,
       "condition": "used",
       "city": "Vancouver",
@@ -232,7 +232,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/e20ae583d88d.html",
       "source_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2024-acura-mdx-id39375248",
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2024-acura-mdx-id39375248?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T07:39:11",
+      "last_verified": "2026-10-18T17:13:15",
       "odometer_km": 44290,
       "condition": "used",
       "city": "Vancouver",
@@ -245,7 +245,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/aa2198bd846f.html",
       "source_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39192079",
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39192079?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T07:39:25",
+      "last_verified": "2026-10-18T17:13:32",
       "odometer_km": 40623,
       "condition": "used",
       "city": "Vancouver",
@@ -258,7 +258,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/7cde236340fa.html",
       "source_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39274741",
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39274741?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T07:39:39",
+      "last_verified": "2026-10-18T17:13:49",
       "odometer_km": 14581,
       "condition": "used",
       "city": "Vancouver",
@@ -271,7 +271,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/9c30bd6f4cb7.html",
       "source_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39314700",
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39314700?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T07:39:55",
+      "last_verified": "2026-10-18T17:14:05",
       "odometer_km": 16780,
       "condition": "used",
       "city": "Vancouver",
@@ -284,7 +284,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/9cc1683111eb.html",
       "source_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39360486",
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39360486?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T07:40:11",
+      "last_verified": "2026-10-18T17:14:19",
       "odometer_km": 11360,
       "condition": "used",
       "city": "Vancouver",
@@ -297,20 +297,20 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/ceb3b93cdd33.html",
       "source_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2026-acura-mdx-id39222577",
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/acura/mdx/2026-acura-mdx-id39222577?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T07:40:27",
+      "last_verified": "2026-10-18T17:14:34",
       "odometer_km": 3819,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
     },
     {
-      "name": "RDX Platinum Elite at2019 Acura",
+      "name": "RDX Platinum Elite SH-AWD2019 Acura",
       "vin": "5J8TC2H73KL801915",
       "stock": "A260188",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/fc83a380c2c8.html",
       "source_url": "https://www.southsidenissan.ca/en/used-inventory/acura/rdx/2019-acura-rdx-id39367986",
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/acura/rdx/2019-acura-rdx-id39367986?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T07:40:43",
+      "last_verified": "2026-10-18T17:14:49",
       "odometer_km": 65952,
       "condition": "used",
       "city": "Vancouver",
@@ -364,19 +364,6 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39140298?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T07:41:45",
       "odometer_km": 43699,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "RDX A-Spec AWD2024 Acura",
-      "vin": "5J8TC2H65RL804851",
-      "stock": "A262051",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/9be1ea7bb2b8.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39305266",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39305266?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T07:41:59",
-      "odometer_km": 25091,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -1393,19 +1380,6 @@
       "province": "BC"
     },
     {
-      "name": "X5 M50i2020 BMW",
-      "vin": "5UXJU4C0XL9B43034",
-      "stock": "MB12D00",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/b5127d8342b1.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/bmw/x5/2020-bmw-x5-id38664584",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/bmw/x5/2020-bmw-x5-id38664584?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:01:48",
-      "odometer_km": 56000,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "X5 M50i2021 BMW",
       "vin": "5UXJU4C04M9H18570",
       "stock": "LR26311",
@@ -1642,19 +1616,6 @@
       "province": "BC"
     },
     {
-      "name": "Colorado Crew 4x2 Z71 Short Box2020 Chevrolet",
-      "vin": "1GCGTDEN7L1196387",
-      "stock": "A113012",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/c591c337ade7.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/chevrolet/colorado/2020-chevrolet-colorado-id39297684",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/chevrolet/colorado/2020-chevrolet-colorado-id39297684?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:06:43",
-      "odometer_km": 103910,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Colorado Crew 4x4 Zr2 Short Box2022 Chevrolet",
       "vin": "1GCPTEE10N1120600",
       "stock": "A116008",
@@ -1689,6 +1650,19 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/chevrolet/corvette/2025-chevrolet-corvette-id39049290?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T08:07:30",
       "odometer_km": 8521,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Corvette Z06 Convertible 1LZ2026 Chevrolet",
+      "vin": "1G1YD2D36T5602022",
+      "stock": "N115502",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/92ef4cd1fc7c.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/chevrolet/corvette/2026-chevrolet-corvette-id39354449",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/chevrolet/corvette/2026-chevrolet-corvette-id39354449?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T17:06:41",
+      "odometer_km": 6700,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -1917,6 +1891,19 @@
       "province": "BC"
     },
     {
+      "name": "Challenger R/T2021 Dodge",
+      "vin": "2C3CDZBT7MH576204",
+      "stock": "H32E001",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/dbc73bf45d0e.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/dodge/challenger/2021-dodge-challenger-id38901399",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/dodge/challenger/2021-dodge-challenger-id38901399?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T17:06:56",
+      "odometer_km": 27485,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Charger GT AWD2018 Dodge",
       "vin": "2C3CDXJG6JH225756",
       "stock": "N226102",
@@ -1925,6 +1912,19 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/dodge/charger/2018-dodge-charger-id39374516?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T08:12:04",
       "odometer_km": 92314,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Charger R/T2022 Dodge",
+      "vin": "2C3CDXCT8NH119955",
+      "stock": "2665613",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/d0ee7fdf101c.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/dodge/charger/2022-dodge-charger-id39380618",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/dodge/charger/2022-dodge-charger-id39380618?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T17:07:11",
+      "odometer_km": 82620,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -1951,6 +1951,19 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/dodge/grand-caravan/2016-dodge-grand-caravan-id39107369?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T08:12:35",
       "odometer_km": 183492,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Grand Caravan Crew2017 Dodge",
+      "vin": "2C4RDGBG9HR727900",
+      "stock": "H26812A",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/c26a6fba7ab0.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/dodge/grand-caravan/2017-dodge-grand-caravan-id38541170",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/dodge/grand-caravan/2017-dodge-grand-caravan-id38541170?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T17:07:27",
+      "odometer_km": 128936,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2913,19 +2926,6 @@
       "province": "BC"
     },
     {
-      "name": "Civic Sedan Sport CVT2019 Honda",
-      "vin": "2HGFC2F88KH021950",
-      "stock": "H313037",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/69f5f8ff0d82.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/honda/civic/2019-honda-civic-id39049374",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/honda/civic/2019-honda-civic-id39049374?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:31:29",
-      "odometer_km": 144040,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Civic Sedan Touring CVT2019 Honda",
       "vin": "2HGFC1F9XKH106002",
       "stock": "H313039",
@@ -3108,19 +3108,6 @@
       "province": "BC"
     },
     {
-      "name": "Civic Sport CVT Sedan2025 Honda",
-      "vin": "2HGFE2F52SH102541",
-      "stock": "H127120",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/f9400ad0674c.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/honda/civic/2025-honda-civic-id39123912",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/honda/civic/2025-honda-civic-id39123912?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:35:17",
-      "odometer_km": 25177,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Civic Type R2025 Honda",
       "vin": "JHMFL5G48SX800271",
       "stock": "MB72F00",
@@ -3236,19 +3223,6 @@
       "province": "BC"
     },
     {
-      "name": "CR-V Hybrid Touring AWD2025 Honda",
-      "vin": "2HKRS6H96SH232499",
-      "stock": "A262078",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/ddc71100d050.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39309101",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39309101?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:37:55",
-      "odometer_km": 17621,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "CR-V Hybrid EX-L AWD2025 Honda",
       "vin": "2HKRS6H79SH210043",
       "stock": "H126280",
@@ -3345,19 +3319,6 @@
       "province": "BC"
     },
     {
-      "name": "CR-V EX-L AWD2017 Honda",
-      "vin": "2HKRW2H88HH128979",
-      "stock": "26H923A",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/387b32445914.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/honda/cr-v/2017-honda-cr-v-id39184571",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/honda/cr-v/2017-honda-cr-v-id39184571?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:40:05",
-      "odometer_km": 84578,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "CR-V Touring AWD CVT2019 Honda",
       "vin": "2HKRW2H91KH119217",
       "stock": "H313038",
@@ -3397,14 +3358,14 @@
       "province": "BC"
     },
     {
-      "name": "CR-V Sport AWD2024 Honda",
-      "vin": "2HKRS4H52RH106023",
-      "stock": "A316058",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/691fef82070b.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/honda/cr-v/2024-honda-cr-v-id39116851",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/honda/cr-v/2024-honda-cr-v-id39116851?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:41:02",
-      "odometer_km": 18115,
+      "name": "CR-V Sport 4WD2023 Honda",
+      "vin": "2HKRS4H5XPH118580",
+      "stock": "H117988",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/b7c98a2c9c29.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/honda/cr-v/2023-honda-cr-v-id39380539",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/honda/cr-v/2023-honda-cr-v-id39380539?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T17:07:43",
+      "odometer_km": 34482,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3829,19 +3790,6 @@
       "province": "BC"
     },
     {
-      "name": "Pilot TrailSport AWD2023 Honda",
-      "vin": "5FNYG1H6XPB503253",
-      "stock": "26H973A",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/f56dafb136fc.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/honda/pilot/2023-honda-pilot-id39223239",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/honda/pilot/2023-honda-pilot-id39223239?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:49:22",
-      "odometer_km": 88500,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Pilot TrailSport AWD2025 Honda",
       "vin": "5FNYG1H69SB500868",
       "stock": "H216007",
@@ -3863,19 +3811,6 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/honda/pilot/2025-honda-pilot-id39289816?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T08:49:53",
       "odometer_km": 22691,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Prologue Touring AWD2024 Honda",
-      "vin": "3GPKHZRJ6RS501819",
-      "stock": "H26672A",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/8ca56ce22557.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/honda/prologue/2024-honda-prologue-id38137393",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/honda/prologue/2024-honda-prologue-id38137393?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:50:08",
-      "odometer_km": 21506,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3953,19 +3888,6 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/honda/ridgeline/2025-honda-ridgeline-id39199911?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T08:51:42",
       "odometer_km": 48655,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Ridgeline Black Edition AWD2025 Honda",
-      "vin": "5FPYK3F80SB503325",
-      "stock": "H126169",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/2827d3cc7d49.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/honda/ridgeline/2025-honda-ridgeline-id39267714",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/honda/ridgeline/2025-honda-ridgeline-id39267714?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T08:51:59",
-      "odometer_km": 16525,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -4389,19 +4311,6 @@
       "province": "BC"
     },
     {
-      "name": "QX60 AWD Sensory2022 Infiniti",
-      "vin": "5N1DL1GS1NC330382",
-      "stock": "LR26156",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/8a3cd7335599.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/infiniti/qx60/2022-infiniti-qx60-id39178984",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/infiniti/qx60/2022-infiniti-qx60-id39178984?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T09:00:24",
-      "odometer_km": 64002,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "QX60 AWD LUXE2023 Infiniti",
       "vin": "5N1DL1FSXPC333110",
       "stock": "MB32B05",
@@ -4436,19 +4345,6 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/infiniti/qx80/2026-infiniti-qx80-id38227543?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T09:01:09",
       "odometer_km": 10147,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "F-PACE P 550 SVR2024 Jaguar",
-      "vin": "SADCZ2EE9RA729760",
-      "stock": "H32F000",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/a1c9977ff9c7.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/jaguar/f-pace/2024-jaguar-f-pace-id39289846",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/jaguar/f-pace/2024-jaguar-f-pace-id39289846?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T09:01:24",
-      "odometer_km": 29631,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -5215,19 +5111,6 @@
       "province": "BC"
     },
     {
-      "name": "Discovery HSE Luxury2017 Land Rover",
-      "vin": "SALRHBBV8HA013890",
-      "stock": "LR26303",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/5eb65781e1d8.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/land-rover/discovery/2017-land-rover-discovery-id39276245",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/land-rover/discovery/2017-land-rover-discovery-id39276245?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T09:16:32",
-      "odometer_km": 80375,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Discovery SE2019 Land Rover",
       "vin": "SALRG2RKXK2408184",
       "stock": "DL45870",
@@ -5522,19 +5405,6 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/land-rover/range-rover-sport/2024-land-rover-range-rover-sport-id38734992?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T09:22:33",
       "odometer_km": 43633,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Range Rover Sport P400 Dynamic HSE - No accidents, local, 1 owner2024 Land Rover",
-      "vin": "SAL1M9FU1RA170438",
-      "stock": "LR26297",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/02c02188ef18.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/land-rover/range-rover-sport/2024-land-rover-range-rover-sport-id38798779",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/land-rover/range-rover-sport/2024-land-rover-range-rover-sport-id38798779?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T09:22:47",
-      "odometer_km": 29623,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6215,6 +6085,19 @@
       "province": "BC"
     },
     {
+      "name": "RXh RX 450h AWD2022 Lexus",
+      "vin": "2T2HGMDA7NC075781",
+      "stock": "H32F000",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/8ac2a5955bce.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/lexus/rxh/2022-lexus-rxh-id39228866",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/lexus/rxh/2022-lexus-rxh-id39228866?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T17:07:57",
+      "odometer_km": 84244,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "TX 350 AWD w/Ultra Luxury Package2024 Lexus",
       "vin": "5TDAAAB65RS018934",
       "stock": "A215011",
@@ -6358,19 +6241,6 @@
       "province": "BC"
     },
     {
-      "name": "CX-5 GS AWD2025 Mazda",
-      "vin": "JM3KFBCL8S0682838",
-      "stock": "S115011",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/099e574f4eff.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/mazda/cx-5/2025-mazda-cx-5-id38784410",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mazda/cx-5/2025-mazda-cx-5-id38784410?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T09:39:18",
-      "odometer_km": 42117,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "CX-70 PHEV GS-L AWD2025 Mazda",
       "vin": "JM3KJCHA4S1107495",
       "stock": "S260211",
@@ -6405,6 +6275,19 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mazda/mazda3-sport/2016-mazda-mazda3-sport-id39349643?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T09:40:05",
       "odometer_km": 167280,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "3 Sport GT2020 Mazda",
+      "vin": "JM1BPBMM8L1169274",
+      "stock": "G115005",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/0f3092845261.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/mazda/mazda3-sport/2020-mazda-mazda3-sport-id39380524",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mazda/mazda3-sport/2020-mazda-mazda3-sport-id39380524?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T17:08:12",
+      "odometer_km": 92856,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6474,19 +6357,6 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/a220/2020-mercedes-benz-a220-id39309107?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T09:41:21",
       "odometer_km": 72200,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "A220 4MATIC Sedan2022 Mercedes-Benz",
-      "vin": "W1K3G4FB0NJ357534",
-      "stock": "MB12A00",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/c5f0d653f9b9.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/a220/2022-mercedes-benz-a220-id39237669",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/a220/2022-mercedes-benz-a220-id39237669?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T09:41:36",
-      "odometer_km": 73668,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6682,19 +6552,6 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/c300/2018-mercedes-benz-c300-id39346633?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T09:45:08",
       "odometer_km": 56000,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "C300 4MATIC Sedan2020 Mercedes-Benz",
-      "vin": "55SWF8EB5LU331145",
-      "stock": "2652073",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/1b7b68050b31.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/c300/2020-mercedes-benz-c300-id39237546",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/c300/2020-mercedes-benz-c300-id39237546?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T09:45:24",
-      "odometer_km": 27200,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7057,19 +6914,6 @@
       "province": "BC"
     },
     {
-      "name": "CLS53 4MATIC+ Coupe2022 Mercedes-Benz",
-      "vin": "W1K2J6BBXNA106213",
-      "stock": "MB31306",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/824712cc6ebe.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/cls53/2022-mercedes-benz-cls53-id39375316",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/cls53/2022-mercedes-benz-cls53-id39375316?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T09:52:38",
-      "odometer_km": 55683,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "E350 4MATIC Sedan2020 Mercedes-Benz",
       "vin": "WDDZF8EB9LA713790",
       "stock": "MB71303",
@@ -7240,6 +7084,19 @@
     },
     {
       "name": "EQB300 4MATIC SUV2025 Mercedes-Benz",
+      "vin": "W1N9M0KB1SN129132",
+      "stock": "MB71703",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/e392fc03c03b.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/eqb300/2025-mercedes-benz-eqb300-id39267882",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/eqb300/2025-mercedes-benz-eqb300-id39267882?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T17:08:28",
+      "odometer_km": 16225,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "EQB300 4MATIC SUV2025 Mercedes-Benz",
       "vin": "W1N9M0KB5SN130283",
       "stock": "MB71703",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/60d92bf051c5.html",
@@ -7312,19 +7169,6 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/eqe500/2023-mercedes-benz-eqe500-id39207372?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T09:57:21",
       "odometer_km": 63695,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "EQS AMG 4MATIC+ Sedan2023 Mercedes-Benz",
-      "vin": "W1KCG5FB8PA024975",
-      "stock": "MB72F00",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/7e557896dd5a.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/eqs-amg/2023-mercedes-benz-eqs-amg-id39254488",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/eqs-amg/2023-mercedes-benz-eqs-amg-id39254488?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T09:57:35",
-      "odometer_km": 28300,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7501,6 +7345,19 @@
       "province": "BC"
     },
     {
+      "name": "G63 AMG SUV2026 Mercedes-Benz",
+      "vin": "W1NWH5AB8TX065070",
+      "stock": "MB51600",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/c2b827ea9ac9.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/g63-amg/2026-mercedes-benz-g63-amg-id39368012",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/g63-amg/2026-mercedes-benz-g63-amg-id39368012?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T17:08:42",
+      "odometer_km": 5076,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "G65 AMG SUV2017 Mercedes-Benz",
       "vin": "WDCYC7FF9HX276625",
       "stock": "2651685",
@@ -7578,19 +7435,6 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/gla250/2022-mercedes-benz-gla250-id38727131?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T10:02:21",
       "odometer_km": 77603,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLA250 4MATIC SUV2023 Mercedes-Benz",
-      "vin": "W1N4N4HB5PJ510972",
-      "stock": "MB71303",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/687696b5f206.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/gla250/2023-mercedes-benz-gla250-id39368013",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/gla250/2023-mercedes-benz-gla250-id39368013?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T10:02:35",
-      "odometer_km": 18915,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -8077,19 +7921,6 @@
       "province": "BC"
     },
     {
-      "name": "GLC300 4MATIC SUV2023 Mercedes-Benz",
-      "vin": "W1NKM4HB8PF035900",
-      "stock": "2665504",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/08cdaf3df0cb.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39375293",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39375293?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T11:05:31",
-      "odometer_km": 33339,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "GLC300 4MATIC Coupe2023 Mercedes-Benz",
       "vin": "W1N0J8EB8PG128678",
       "stock": "2652109",
@@ -8137,19 +7968,6 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/glc300/2025-mercedes-benz-glc300-id39274858?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T11:06:33",
       "odometer_km": 15085,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLC300 4MATIC SUV2025 Mercedes-Benz",
-      "vin": "W1NKM4HB0SF401499",
-      "stock": "2765884",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/57343e621d30.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/glc300/2025-mercedes-benz-glc300-id39281933",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/glc300/2025-mercedes-benz-glc300-id39281933?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T11:06:47",
-      "odometer_km": 10637,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -8324,6 +8142,32 @@
       "province": "BC"
     },
     {
+      "name": "GLC43 AMG 4MATIC SUV2022 Mercedes-Benz",
+      "vin": "W1N0G6EB0NV376693",
+      "stock": "MB71602",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/438c674a9228.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/glc43-amg/2022-mercedes-benz-glc43-amg-id39380612",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/glc43-amg/2022-mercedes-benz-glc43-amg-id39380612?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T17:08:57",
+      "odometer_km": 29300,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC43 AMG 4MATIC SUV2022 Mercedes-Benz",
+      "vin": "W1N0G6EB2NV364741",
+      "stock": "S260745",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/a00c35da9efa.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/glc43-amg/2022-mercedes-benz-glc43-amg-id39380629",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/glc43-amg/2022-mercedes-benz-glc43-amg-id39380629?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T17:09:13",
+      "odometer_km": 56277,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "GLC63 AMG S E Performance 4MATIC+ SUV2026 Mercedes-Benz",
       "vin": "W1NKM8AB7TF516362",
       "stock": "MB71303",
@@ -8422,19 +8266,6 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/gle350/2024-mercedes-benz-gle350-id38551446?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T11:12:09",
       "odometer_km": 22500,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLE350 4MATIC SUV2024 Mercedes-Benz",
-      "vin": "4JGFB4FB1RB091846",
-      "stock": "L26569A",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/ebdc65e8755f.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/gle350/2024-mercedes-benz-gle350-id38945188",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/gle350/2024-mercedes-benz-gle350-id38945188?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T11:12:24",
-      "odometer_km": 50729,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -8604,19 +8435,6 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/gle450/2022-mercedes-benz-gle450-id39052641?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T11:15:41",
       "odometer_km": 29937,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLE450 4MATIC SUV2023 Mercedes-Benz",
-      "vin": "4JGFB5KB6PA958057",
-      "stock": "6T0821A",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/8b4f896e7ce3.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/gle450/2023-mercedes-benz-gle450-id38440322",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/gle450/2023-mercedes-benz-gle450-id38440322?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T11:15:57",
-      "odometer_km": 35138,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -8986,19 +8804,6 @@
       "province": "BC"
     },
     {
-      "name": "Maybach EQS680 4MATIC SUV2024 Mercedes-Benz",
-      "vin": "4JGDX5FB4RA031872",
-      "stock": "MB72F00",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/2703406373d4.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/maybach/2024-mercedes-benz-maybach-id39246583",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mercedes-benz/maybach/2024-mercedes-benz-maybach-id39246583?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T11:23:28",
-      "odometer_km": 26173,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "ML350 4MATIC2010 Mercedes-Benz",
       "vin": "4JGBB8GB6AA582170",
       "stock": "2665118",
@@ -9276,19 +9081,6 @@
       "province": "BC"
     },
     {
-      "name": "RVR ES AWC - CVT2022 Mitsubishi",
-      "vin": "JA4AJVAW6NU601960",
-      "stock": "2665248",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/fcbdccaa720d.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/mitsubishi/rvr/2022-mitsubishi-rvr-id39102259",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/mitsubishi/rvr/2022-mitsubishi-rvr-id39102259?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T11:29:07",
-      "odometer_km": 75400,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Ariya Premiere e-4orce2023 Nissan",
       "vin": "JN1DF0CD5PM704103",
       "stock": "N212035",
@@ -9380,19 +9172,6 @@
       "province": "BC"
     },
     {
-      "name": "Kicks SR CVT2021 Nissan",
-      "vin": "3N1CP5DV9ML549638",
-      "stock": "N213033",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/dd91160af450.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/kicks/2021-nissan-kicks-id39324654",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/kicks/2021-nissan-kicks-id39324654?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T11:30:54",
-      "odometer_km": 81503,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Kicks SV CVT2023 Nissan",
       "vin": "3N1CP5CV5PL557001",
       "stock": "2665692",
@@ -9406,14 +9185,14 @@
       "province": "BC"
     },
     {
-      "name": "Kicks S2024 Nissan",
-      "vin": "3N1CP5BV2RL568154",
-      "stock": "N226203",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/4194d860c5c1.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/kicks/2024-nissan-kicks-id39221253",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/kicks/2024-nissan-kicks-id39221253?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T12:36:03",
-      "odometer_km": 43757,
+      "name": "Kicks SV FWD2025 Nissan",
+      "vin": "3N8AP6CAXSL301747",
+      "stock": "N213036",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/92c219248aa2.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/kicks/2025-nissan-kicks-id39380622",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/nissan/kicks/2025-nissan-kicks-id39380622?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T17:09:29",
+      "odometer_km": 40512,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10256,19 +10035,6 @@
       "province": "BC"
     },
     {
-      "name": "1500 Tradesman 4x4 Crew Cab 5'7 Box2024 Ram",
-      "vin": "1C6SRFGT3RN178347",
-      "stock": "A316058",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/aeeb5a7599a7.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/ram/1500/2024-ram-1500-id38860952",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/ram/1500/2024-ram-1500-id38860952?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T11:46:37",
-      "odometer_km": 48266,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "1500 Rebel 4x4 Crew Cab 5'7 Box2024 Ram",
       "vin": "1C6SRFLT1RN114555",
       "stock": "26B9080",
@@ -10466,19 +10232,6 @@
       "province": "BC"
     },
     {
-      "name": "BRZ Sport-Tech at2016 Subaru",
-      "vin": "JF1ZCAC1XG8602074",
-      "stock": "S113023",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/1c1d60273db3.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/brz/2016-subaru-brz-id39368070",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/brz/2016-subaru-brz-id39368070?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T11:50:39",
-      "odometer_km": 47148,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Crosstrek Touring Pkg CVT2017 Subaru",
       "vin": "JF2GPABC4HH261458",
       "stock": "H126193",
@@ -10526,6 +10279,19 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/crosstrek/2021-subaru-crosstrek-id39360585?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T11:51:42",
       "odometer_km": 64027,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Crosstrek Limited CVT2021 Subaru",
+      "vin": "JF2GTHNC5M8283270",
+      "stock": "S260642",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/4df2577c138d.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/crosstrek/2021-subaru-crosstrek-id39380628",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/crosstrek/2021-subaru-crosstrek-id39380628?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T17:09:45",
+      "odometer_km": 67986,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10974,19 +10740,6 @@
     },
     {
       "name": "Crosstrek Onyx CVT2026 Subaru",
-      "vin": "JF2GUHFC0T8235198",
-      "stock": "S115016",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/7d43d3b85c0a.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/crosstrek/2026-subaru-crosstrek-id39192209",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/crosstrek/2026-subaru-crosstrek-id39192209?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T12:00:55",
-      "odometer_km": 11480,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Crosstrek Onyx CVT2026 Subaru",
       "vin": "JF2GUHFC1T8234559",
       "stock": "S115016",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/8bd8120ae0a0.html",
@@ -11105,19 +10858,6 @@
       "province": "BC"
     },
     {
-      "name": "Forester Touring 2.5L CVT2025 Subaru",
-      "vin": "JF2SLDDCXSH555233",
-      "stock": "S261261",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/8a8978183038.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/forester/2025-subaru-forester-id39101562",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/forester/2025-subaru-forester-id39101562?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T12:03:29",
-      "odometer_km": 21445,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Forester Sport 2.5L CVT2025 Subaru",
       "vin": "JF2SLDHCXSH484495",
       "stock": "S113023",
@@ -11152,6 +10892,32 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/forester/2025-subaru-forester-id39349542?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T12:04:13",
       "odometer_km": 16178,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Forester Convenience 2.5L CVT2025 Subaru",
+      "vin": "JF2SLDAC1SH492236",
+      "stock": "S261212",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/bd4b7a2098b3.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/forester/2025-subaru-forester-id39380631",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/forester/2025-subaru-forester-id39380631?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T17:10:01",
+      "odometer_km": 31708,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Forester Convenience 2.5L CVT2025 Subaru",
+      "vin": "JF2SLDAC9SH542834",
+      "stock": "S261453",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/8c41804ebe5d.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/forester/2025-subaru-forester-id39380632",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/forester/2025-subaru-forester-id39380632?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T17:10:15",
+      "odometer_km": 14949,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -11534,6 +11300,19 @@
       "province": "BC"
     },
     {
+      "name": "Forester Touring 2.5L CVT2026 Subaru",
+      "vin": "JF2SLDDC3TH462071",
+      "stock": "S115017",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/befd400d7fdb.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39380627",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39380627?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T17:10:28",
+      "odometer_km": 6328,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Impreza 5Dr Convenience 5sp2023 Subaru",
       "vin": "4S3GTAA65P1705752",
       "stock": "S261169",
@@ -11687,6 +11466,19 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/outback/2024-subaru-outback-id38860976?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T12:14:48",
       "odometer_km": 35496,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Outback Limited XT AWD2024 Subaru",
+      "vin": "4S4BTHND0R3205156",
+      "stock": "S261305",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/0a6b88548e1f.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/outback/2024-subaru-outback-id39380625",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/subaru/outback/2024-subaru-outback-id39380625?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T17:10:45",
+      "odometer_km": 32377,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -11861,19 +11653,6 @@
       "province": "BC"
     },
     {
-      "name": "Model 32022 Tesla",
-      "vin": "5YJ3E1EA6NF344978",
-      "stock": "MB71703",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/71b866b6f1cb.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/tesla/model-3/2022-tesla-model-3-id39368009",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/tesla/model-3/2022-tesla-model-3-id39368009?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T12:18:20",
-      "odometer_km": 27450,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Model 3 Long Range AWD2025 Tesla",
       "vin": "5YJ3E1EB4SF932236",
       "stock": "A22F003",
@@ -12043,19 +11822,6 @@
       "province": "BC"
     },
     {
-      "name": "Corolla Cross L AWD2022 Toyota",
-      "vin": "7MUAAABG1NV003081",
-      "stock": "H32E002",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/c1926c05956f.html",
-      "source_url": "https://www.southsidenissan.ca/en/used-inventory/toyota/corolla-cross/2022-toyota-corolla-cross-id39254431",
-      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/toyota/corolla-cross/2022-toyota-corolla-cross-id39254431?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T12:21:54",
-      "odometer_km": 119086,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Corolla Hatchback XSE PACKAGE2023 Toyota",
       "vin": "JTNK4MBE5P3197037",
       "stock": "A12C014",
@@ -12157,6 +11923,19 @@
       "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/toyota/corolla/2021-toyota-corolla-id38953571?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T12:23:58",
       "odometer_km": 96456,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Corolla SE CVT2021 Toyota",
+      "vin": "5YFB4MBE5MP083711",
+      "stock": "26H1092",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/57e16755f416.html",
+      "source_url": "https://www.southsidenissan.ca/en/used-inventory/toyota/corolla/2021-toyota-corolla-id39108471",
+      "dealer_url": "https://www.southsidenissan.ca/en/used-inventory/toyota/corolla/2021-toyota-corolla-id39108471?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T17:10:59",
+      "odometer_km": 88495,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
