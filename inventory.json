@@ -1,7 +1,7 @@
 {
   "dealership": "Southside Nissan Ltd",
-  "generated_at": "2026-10-19T16:26:27",
-  "vehicle_count": 1315,
+  "generated_at": "2026-10-20T19:12:34",
+  "vehicle_count": 1317,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -12932,6 +12932,18 @@
     },
     {
       "name": "Kicks SV Premium AWD2026 Nissan",
+      "vin": "3N8AP6CB3TL391348",
+      "stock": "26213",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/e30c43e96a6d.html",
+      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38192782",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38192782?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T19:07:17",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Kicks SV Premium AWD2026 Nissan",
       "vin": "3N8AP6CBXTL392674",
       "stock": "26219",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/d0916ea17b1a.html",
@@ -12949,7 +12961,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/ae1a22a3f63b.html",
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38227550",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38227550?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:22:04",
+      "last_verified": "2026-10-20T19:08:36",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -12961,7 +12973,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/2524c8bc3ed2.html",
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38240734",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38240734?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:22:20",
+      "last_verified": "2026-10-20T19:08:56",
       "odometer_km": 3028,
       "condition": "new",
       "city": "Vancouver",
@@ -12974,7 +12986,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/6ef18b8d1897.html",
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248258",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248258?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:22:34",
+      "last_verified": "2026-10-20T19:09:13",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -12986,7 +12998,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/b7968e0bfbc8.html",
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248259",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248259?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:22:49",
+      "last_verified": "2026-10-20T19:09:30",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -12998,7 +13010,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/e572c596210d.html",
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248260",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248260?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:23:07",
+      "last_verified": "2026-10-20T19:09:46",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13010,7 +13022,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/620242bc224c.html",
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248261",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248261?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:23:23",
+      "last_verified": "2026-10-20T19:10:00",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13022,7 +13034,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/0cd6449d2220.html",
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248262",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248262?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:23:38",
+      "last_verified": "2026-10-20T19:10:16",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13034,7 +13046,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/9cac761be970.html",
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248264",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248264?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:23:55",
+      "last_verified": "2026-10-20T19:10:31",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13046,7 +13058,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/97ec1973b858.html",
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248266",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248266?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:24:10",
+      "last_verified": "2026-10-20T19:10:46",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13058,7 +13070,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/ec91420bd44b.html",
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248270",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248270?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:24:25",
+      "last_verified": "2026-10-20T19:11:01",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13070,7 +13082,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/e0c5130742ea.html",
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248278",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38248278?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:24:41",
+      "last_verified": "2026-10-20T19:11:16",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13082,7 +13094,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/78eba26e622c.html",
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38256409",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38256409?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:24:55",
+      "last_verified": "2026-10-20T19:11:31",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13094,7 +13106,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/ec11e2b10a2a.html",
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38272311",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38272311?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:25:09",
+      "last_verified": "2026-10-20T19:11:47",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13106,7 +13118,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/ca95660bdff6.html",
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38334303",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38334303?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:25:25",
+      "last_verified": "2026-10-20T19:12:02",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13118,7 +13130,7 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/c66d27589f97.html",
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38334307",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id38334307?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:25:41",
+      "last_verified": "2026-10-20T19:12:17",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13592,18 +13604,6 @@
       "province": "BC"
     },
     {
-      "name": "Kicks SR Premium AWD2026 Nissan",
-      "vin": "3N8AP6DD8TL417927",
-      "stock": "N226203",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/89a41bcd937f.html",
-      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id39026508",
-      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2026-nissan-kicks-id39026508?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:36:17",
-      "condition": "new",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Kicks S AWD2026 Nissan",
       "vin": "3N8AP6BB6TL415689",
       "stock": "N226203",
@@ -13791,18 +13791,6 @@
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39178059",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39178059?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T18:40:15",
-      "condition": "new",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Kicks S AWD2027 Nissan",
-      "vin": "3N8AP6BB1VL302137",
-      "stock": "N227104",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/1effa3ab6f17.html",
-      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39178060",
-      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39178060?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T12:39:50",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14048,6 +14036,18 @@
       "province": "BC"
     },
     {
+      "name": "Kicks Rock Creek AWD2027 Nissan",
+      "vin": "3N8AP6CB6VL320583",
+      "stock": "27034",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/1d7a2782a40f.html",
+      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39290064",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/kicks/2027-nissan-kicks-id39290064?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T19:07:34",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Kicks SR Premium AWD2027 Nissan",
       "vin": "3N8AP6DD1VL321494",
       "stock": "27039",
@@ -14163,6 +14163,18 @@
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2026-nissan-leaf-id39237589",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2026-nissan-leaf-id39237589?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T18:49:04",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "LEAF SV Plus2026 Nissan",
+      "vin": "JN1AZ2CAXTM308240",
+      "stock": "26460",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/98077e05c9fb.html",
+      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2026-nissan-leaf-id39387655",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/leaf/2026-nissan-leaf-id39387655?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T19:07:49",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14616,6 +14628,18 @@
     },
     {
       "name": "Rogue Plug-in Hybrid Platinum2026 Nissan",
+      "vin": "JA4T0MA96TZ623232",
+      "stock": "26449",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/9f938a5d24fd.html",
+      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/rogue-plug-in-hybrid/2026-nissan-rogue-plug-in-hybrid-id39237587",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/rogue-plug-in-hybrid/2026-nissan-rogue-plug-in-hybrid-id39237587?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T19:08:03",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Rogue Plug-in Hybrid Platinum2026 Nissan",
       "vin": "JA4T0MA99TZ622883",
       "stock": "26452",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/a3ef48ac3fff.html",
@@ -14670,18 +14694,6 @@
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id36953132",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id36953132?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T18:58:36",
-      "condition": "new",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Rogue SV Moonroof2026 Nissan",
-      "vin": "JN8BT3BB0TW085427",
-      "stock": "26049",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/6e382221b9e7.html",
-      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id36992191",
-      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id36992191?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:58:52",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -16011,6 +16023,18 @@
       "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id39026486",
       "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id39026486?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T19:27:50",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Rogue SV Moonroof2026 Nissan",
+      "vin": "JN8BT3BB4TW096737",
+      "stock": "N226203",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/e6f77efc1145.html",
+      "source_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id39026488",
+      "dealer_url": "https://www.southsidenissan.ca/en/new-inventory/nissan/rogue/2026-nissan-rogue-id39026488?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T19:08:21",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
