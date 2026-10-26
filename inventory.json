@@ -1,7 +1,7 @@
 {
   "dealership": "Southside Nissan Ltd",
-  "generated_at": "2026-10-25T20:01:02",
-  "vehicle_count": 1330,
+  "generated_at": "2026-10-26T05:25:20",
+  "vehicle_count": 1318,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -228,6 +228,12 @@
       "price_currency": "CAD"
     },
     {
+      "name": "TLX A-Spec2020 Acura",
+      "vin": "19UUB1F66LA800329",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/444a158bcc1a.html",
+      "condition": "used"
+    },
+    {
       "name": "TLX SH-AWD Platinum Elite2021 Acura",
       "vin": "19UUB6F9XMA800486",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/231d7a7805e4.html",
@@ -284,12 +290,6 @@
       "condition": "used"
     },
     {
-      "name": "New SQ5 Technik 3.0 TFSI quattro2025 Audi",
-      "vin": "WA135AGU5S2021876",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/80113ad388ad.html",
-      "condition": "used"
-    },
-    {
       "name": "Q3 2.0T Progressiv2015 Audi",
       "vin": "WA1EFEFS7FR001722",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/dc099a9de804.html",
@@ -319,12 +319,6 @@
       "name": "Q3 Progressiv 45 TFSI quattro2025 Audi",
       "vin": "WA1EECF32S1112459",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/f77e8fcf3735.html",
-      "condition": "used"
-    },
-    {
-      "name": "Q5 Progressiv2018 Audi",
-      "vin": "WA1ENAFY2J2035455",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/3379dc2b1431.html",
       "condition": "used"
     },
     {
@@ -487,12 +481,6 @@
       "name": "SQ7 4.0 TFSI quattro2026 Audi",
       "vin": "WA1AWBF74TD012971",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/86611ed20778.html",
-      "condition": "used"
-    },
-    {
-      "name": "TT RS 2.5T quattro 7sp S Tronic Coupe2019 Audi",
-      "vin": "WUAASAFV4K1900164",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/4045617f5139.html",
       "condition": "used"
     },
     {
@@ -816,12 +804,6 @@
       "condition": "used"
     },
     {
-      "name": "Corvette 3LT w/ Z51 Perf Pkg2025 Chevrolet",
-      "vin": "1G1YC3D41S5109218",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/7492eb086f92.html",
-      "condition": "used"
-    },
-    {
       "name": "Corvette Z06 Convertible 1LZ2026 Chevrolet",
       "vin": "1G1YD2D36T5602022",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/92ef4cd1fc7c.html",
@@ -924,12 +906,6 @@
       "condition": "used"
     },
     {
-      "name": "Challenger SRT Hellcat2023 Dodge",
-      "vin": "2C3CDZC99PH691667",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/237c4affdae3.html",
-      "condition": "used"
-    },
-    {
       "name": "Charger GT AWD2018 Dodge",
       "vin": "2C3CDXJG6JH225756",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/84123fd70685.html",
@@ -1020,12 +996,6 @@
       "condition": "used"
     },
     {
-      "name": "Escape SE - 4WD2017 Ford",
-      "vin": "1FMCU9G9XHUC29716",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/51ad3907574a.html",
-      "condition": "used"
-    },
-    {
       "name": "Expedition Platinum Max2022 Ford",
       "vin": "1FMJK1MT5NEA09839",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/f5177e072eac.html",
@@ -1065,12 +1035,6 @@
       "name": "F-150 4x4 SuperCrew Tremor - 145'' WB2023 Ford",
       "vin": "1FTEW1E84PFB92751",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/09d3c7756b18.html",
-      "condition": "used"
-    },
-    {
-      "name": "F-150 4x4 - SuperCrew LARIAT - 145 WB2023 Ford",
-      "vin": "1FTEW1EP8PKF17867",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/c51a4e2541de.html",
       "condition": "used"
     },
     {
@@ -1270,12 +1234,6 @@
       "condition": "used"
     },
     {
-      "name": "New Sierra 1500 Crew Cab 4x4 At4 Standard Box2022 GMC",
-      "vin": "3GTUUEET3NG620656",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/c4b2a9ab6636.html",
-      "condition": "used"
-    },
-    {
       "name": "New Sierra 1500 Crew Cab 4x4 At4 Short Box2022 GMC",
       "vin": "3GTPUEEL0NG532693",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/b8068b52f40d.html",
@@ -1418,12 +1376,6 @@
       "condition": "used"
     },
     {
-      "name": "Civic Sedan LX CVT2023 Honda",
-      "vin": "2HGFE2F29PH106809",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/14aa5f0441f8.html",
-      "condition": "used"
-    },
-    {
       "name": "Civic Hatchback LX CVT2023 Honda",
       "vin": "19XFL2H50PE400123",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/8c7c03026f3b.html",
@@ -1520,18 +1472,16 @@
       "condition": "used"
     },
     {
+      "name": "CR-V Hybrid EX-L AWD2025 Honda",
+      "vin": "2HKRS6H79SH200144",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/8598f8c8bd32.html",
+      "condition": "used"
+    },
+    {
       "name": "CR-V Hybrid EX-L AWD2026 Honda",
       "vin": "2HKRS6H78TH208513",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/451d5bb6f25f.html",
       "condition": "used"
-    },
-    {
-      "name": "CR-V EX-L AWD2014 Honda",
-      "vin": "2HKRM4H7XEH131130",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/b722dcc37ae0.html",
-      "condition": "used",
-      "price": 18995.0,
-      "price_currency": "CAD"
     },
     {
       "name": "CR-V EX AWD2014 Honda",
@@ -1548,6 +1498,12 @@
       "condition": "used",
       "price": 14199.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "CR-V LX AWD2018 Honda",
+      "vin": "2HKRW2H26JH127878",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/34079a4f1cc8.html",
+      "condition": "used"
     },
     {
       "name": "CR-V LX AWD CVT2019 Honda",
@@ -1571,6 +1527,12 @@
       "name": "CR-V Sport 4WD2023 Honda",
       "vin": "2HKRS4H58PH101759",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/a6528046b552.html",
+      "condition": "used"
+    },
+    {
+      "name": "HR-V EX-L Navi 4WD CVT2023 Honda",
+      "vin": "3CZRZ2H73PM101433",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/846cfe653822.html",
       "condition": "used"
     },
     {
@@ -1715,12 +1677,6 @@
       "name": "Ridgeline Touring2019 Honda",
       "vin": "5FPYK3F74KB506171",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/27de8ebcd700.html",
-      "condition": "used"
-    },
-    {
-      "name": "Ridgeline Touring2019 Honda",
-      "vin": "5FPYK3F73KB501205",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/2e91da1a6bf6.html",
       "condition": "used"
     },
     {
@@ -1926,6 +1882,12 @@
       "condition": "used"
     },
     {
+      "name": "QX55 ESSENTIAL AWD2025 Infiniti",
+      "vin": "3PCAJ5KR9SF116151",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/0fbd3ab2c64d.html",
+      "condition": "used"
+    },
+    {
       "name": "QX60 AWD LUXE2023 Infiniti",
       "vin": "5N1DL1FSXPC333110",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/b58d55ec323e.html",
@@ -1971,6 +1933,12 @@
       "name": "F-Type Coupe P450 75 AWD2024 Jaguar",
       "vin": "SAJDV1EE9RCK84514",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/1c38592dbbba.html",
+      "condition": "used"
+    },
+    {
+      "name": "I-PACE R-Dynamic HSE (2)2024 Jaguar",
+      "vin": "SADHM2S15R1642458",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/78f6f43c4de9.html",
       "condition": "used"
     },
     {
@@ -2044,14 +2012,6 @@
       "vin": "1C4JJXFM9MW835165",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/3f3915fd4cf3.html",
       "condition": "used"
-    },
-    {
-      "name": "Wrangler Rubicon 2D Utility 4WD2012 Jeep",
-      "vin": "1C4GJWBG9CL180042",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/eb5ae6fbb65e.html",
-      "condition": "used",
-      "price": 15887.0,
-      "price_currency": "CAD"
     },
     {
       "name": "Wrangler JL Unlimited Sport2020 Jeep",
@@ -2425,12 +2385,6 @@
     },
     {
       "name": "Range Rover Sport P400 Dynamic SE2024 Land Rover",
-      "vin": "SAL1L9FU5RA401456",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/7635210b57ca.html",
-      "condition": "used"
-    },
-    {
-      "name": "Range Rover Sport P400 Dynamic SE2024 Land Rover",
       "vin": "SAL1L9FU1RA419064",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/00f78c6c260e.html",
       "condition": "used"
@@ -2654,12 +2608,6 @@
       "condition": "used"
     },
     {
-      "name": "GX 5502025 Lexus",
-      "vin": "JTJVBCDX8S5050673",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/21fe758d7193.html",
-      "condition": "used"
-    },
-    {
       "name": "IS 300 AWD2024 Lexus",
       "vin": "JTHC81F28R5054018",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/afcbf6f4c8b6.html",
@@ -2835,12 +2783,6 @@
       "name": "3 Sport GS at2016 Mazda",
       "vin": "3MZBM1V77GM240580",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/51753e414440.html",
-      "condition": "used"
-    },
-    {
-      "name": "3 Sport GT2020 Mazda",
-      "vin": "JM1BPBMM8L1169274",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/0f3092845261.html",
       "condition": "used"
     },
     {
@@ -3035,12 +2977,6 @@
     },
     {
       "name": "CLA250 4MATIC Coupe2025 Mercedes-Benz",
-      "vin": "W1K5J4HB0SN520873",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/d5ee4264ebfb.html",
-      "condition": "used"
-    },
-    {
-      "name": "CLA250 4MATIC Coupe2025 Mercedes-Benz",
       "vin": "W1K5J4HB0SN507914",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/831b91dcfc73.html",
       "condition": "used"
@@ -3225,12 +3161,6 @@
       "name": "EQE500 4MATIC Sedan2023 Mercedes-Benz",
       "vin": "W1KEG2CBXPF028413",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/9fc16ed83081.html",
-      "condition": "used"
-    },
-    {
-      "name": "EQS580 4MATIC Sedan2022 Mercedes-Benz",
-      "vin": "W1KCG4EB2NA012801",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/fd7ba99bb60c.html",
       "condition": "used"
     },
     {
@@ -4122,12 +4052,6 @@
       "condition": "used"
     },
     {
-      "name": "Sprinter Cargo Van 2500 High Roof I4 Diesel 1702025 Mercedes-Benz",
-      "vin": "W1Y4KCHY0SP795645",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/44ead8d2b0ab.html",
-      "condition": "used"
-    },
-    {
       "name": "Sprinter Gas 2500 Cargo 1702022 Mercedes-Benz",
       "vin": "W1Y40CHY7NT105181",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/428d6b1c964b.html",
@@ -4176,6 +4100,12 @@
       "condition": "used"
     },
     {
+      "name": "Outlander Plug-In Hybrid SE S-AWC2025 Mitsubishi",
+      "vin": "JA4T5VA96SZ621678",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/f6d5de9da346.html",
+      "condition": "used"
+    },
+    {
       "name": "Outlander ES S-AWC2023 Mitsubishi",
       "vin": "JA4J4UA85PZ616099",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/02356cead5de.html",
@@ -4191,20 +4121,6 @@
       "name": "Outlander ES S-AWC2024 Mitsubishi",
       "vin": "JA4J4UA89RZ612172",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/f38ac8c666b1.html",
-      "condition": "used"
-    },
-    {
-      "name": "Altima Sedan 2.5 S CVT2015 Nissan",
-      "vin": "1N4AL3AP7FN374289",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/f3ce8cf0c8d3.html",
-      "condition": "used",
-      "price": 9888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Ariya Premiere e-4orce2023 Nissan",
-      "vin": "JN1DF0CD5PM704103",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/5fb17b050a75.html",
       "condition": "used"
     },
     {
@@ -4370,21 +4286,9 @@
       "condition": "used"
     },
     {
-      "name": "Pathfinder Platinum 4WD2024 Nissan",
-      "vin": "5N1DR3DF8RC270771",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/dcef9e601eb5.html",
-      "condition": "used"
-    },
-    {
       "name": "Qashqai SV AWD CVT2018 Nissan",
       "vin": "JN1BJ1CR5JW258005",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/cd87df4ec4f8.html",
-      "condition": "used"
-    },
-    {
-      "name": "Qashqai SV2021 Nissan",
-      "vin": "JN1BJ1BW9MW446781",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/c7538a3f23ed.html",
       "condition": "used"
     },
     {
@@ -4399,14 +4303,6 @@
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/22d2d9b1602d.html",
       "condition": "used",
       "price": 8699.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Rogue SL AWD CVT2015 Nissan",
-      "vin": "5N1AT2MV9FC818696",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/f591e44c3ddd.html",
-      "condition": "used",
-      "price": 13999.0,
       "price_currency": "CAD"
     },
     {
@@ -4776,6 +4672,12 @@
       "condition": "used"
     },
     {
+      "name": "Ascent Limited2022 Subaru",
+      "vin": "4S4WMALD9N3401521",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/00d95831377b.html",
+      "condition": "used"
+    },
+    {
       "name": "Ascent Premier2023 Subaru",
       "vin": "4S4WMAWD1P3456883",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/25a987a51d8f.html",
@@ -4833,12 +4735,6 @@
       "name": "Crosstrek Onyx CVT2024 Subaru",
       "vin": "JF2GUHFC1RH261477",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/92ce8e33b4c6.html",
-      "condition": "used"
-    },
-    {
-      "name": "Crosstrek Convenience CVT2024 Subaru",
-      "vin": "JF2GUABC4RH252298",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/b10301b98eb5.html",
       "condition": "used"
     },
     {
@@ -4974,12 +4870,6 @@
       "condition": "used"
     },
     {
-      "name": "Crosstrek Convenience CVT2026 Subaru",
-      "vin": "JF2GUHBC3T8226226",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/9ddaa9f49d0a.html",
-      "condition": "used"
-    },
-    {
       "name": "Crosstrek Touring CVT2026 Subaru",
       "vin": "JF2GUHDC3T8234890",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/ce56699135cf.html",
@@ -5075,6 +4965,12 @@
       "name": "Forester Limited 2.5L CVT2025 Subaru",
       "vin": "JF2SLDRC7SH445684",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/60b00b050edd.html",
+      "condition": "used"
+    },
+    {
+      "name": "Forester Premier 2.5L CVT2025 Subaru",
+      "vin": "JF2SLDTC0SH566517",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/327b53022e51.html",
       "condition": "used"
     },
     {
@@ -5246,6 +5142,12 @@
       "condition": "used"
     },
     {
+      "name": "Impreza RS AWD2024 Subaru",
+      "vin": "JF1GUHJC0R8266343",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/fade321c79ac.html",
+      "condition": "used"
+    },
+    {
       "name": "Impreza Touring CVT2026 Subaru",
       "vin": "JF1GUAFC3T8215328",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/27a43b57ca0b.html",
@@ -5338,6 +5240,12 @@
       "condition": "used"
     },
     {
+      "name": "Outback 2.4L Limited XT Turbo2026 Subaru",
+      "vin": "JF2BURHD2TY463662",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/f9a2723bbb8a.html",
+      "condition": "used"
+    },
+    {
       "name": "Solterra at-PUE ALX2023 Subaru",
       "vin": "JTMABABA6PA033700",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/6af517492b34.html",
@@ -5389,6 +5297,12 @@
       "name": "Model 3 Long Range AWD W/Autopilot2022 Tesla",
       "vin": "5YJ3E1EB1NF252430",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/2722773899c6.html",
+      "condition": "used"
+    },
+    {
+      "name": "Model 3 Long Range2024 Tesla",
+      "vin": "LRW3E7EB1RC100828",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/bfe90da30f92.html",
       "condition": "used"
     },
     {
@@ -5470,9 +5384,9 @@
       "condition": "used"
     },
     {
-      "name": "Corolla Hatchback XSE PACKAGE2023 Toyota",
-      "vin": "JTNK4MBE5P3197037",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/9c658f282dc3.html",
+      "name": "Corolla Hybrid Hybrid2022 Toyota",
+      "vin": "JTDBAMDE2N3006309",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/1215b165ea88.html",
       "condition": "used"
     },
     {
@@ -5509,8 +5423,8 @@
     },
     {
       "name": "Corolla 4-door Sedan LE CVT2020 Toyota",
-      "vin": "5YFBPRBE0LP012449",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/bbff492ea6c1.html",
+      "vin": "5YFBPRBE5LP014567",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/85a35702b621.html",
       "condition": "used"
     },
     {
@@ -5529,6 +5443,12 @@
       "name": "Corolla LE CVT2026 Toyota",
       "vin": "5YFB4MDE6TP402822",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/a42ae6093c54.html",
+      "condition": "used"
+    },
+    {
+      "name": "GR Supra 3.0 Premium2022 Toyota",
+      "vin": "WZ1DB0C01NW051259",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/9a23e5d7735e.html",
       "condition": "used"
     },
     {
@@ -5586,14 +5506,6 @@
       "vin": "JTEABFAJ4SK025544",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/66cf5fd2f8da.html",
       "condition": "used"
-    },
-    {
-      "name": "Matrix 5-door FWD 4A2004 Toyota",
-      "vin": "2T1KR32E14C194378",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/4567bd05d270.html",
-      "condition": "used",
-      "price": 6999.0,
-      "price_currency": "CAD"
     },
     {
       "name": "Prius c eCVT2012 Toyota",
@@ -5772,6 +5684,12 @@
       "condition": "used"
     },
     {
+      "name": "Golf R Black Edition DSG2025 Volkswagen",
+      "vin": "WVWKB7CDXSW228954",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/eb10262dc60d.html",
+      "condition": "used"
+    },
+    {
       "name": "Golf R DSG2026 Volkswagen",
       "vin": "WVWCF7CD3TW177565",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/736256601541.html",
@@ -5781,12 +5699,6 @@
       "name": "Golf Sportwagen Alltrack 1.8T Highline 6sp 4MOTION2019 Volkswagen",
       "vin": "3VWM17AU9KM522017",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/ea32a25f2da6.html",
-      "condition": "used"
-    },
-    {
-      "name": "GOLF Trendline2017 Volkswagen",
-      "vin": "3VW217AU7HM056054",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/89f2394e7ddf.html",
       "condition": "used"
     },
     {
@@ -5875,6 +5787,12 @@
       "name": "XC40 T5 AWD Inscription2022 Volvo",
       "vin": "YV4162UL3N2761259",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/1678f3b3a95d.html",
+      "condition": "used"
+    },
+    {
+      "name": "XC60 T6 Drive-E AWD Premier2017 Volvo",
+      "vin": "YV449MRKXH2119996",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/89b54ec8d404.html",
       "condition": "used"
     },
     {
