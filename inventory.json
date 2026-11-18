@@ -1,6 +1,6 @@
 {
   "dealership": "Southside Nissan Ltd",
-  "generated_at": "2026-11-18T04:44:44",
+  "generated_at": "2026-11-18T07:58:44",
   "vehicle_count": 1362,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -111,6 +111,12 @@
       "name": "MDX A-Spec SH-AWD2024 Acura",
       "vin": "5J8YE1H08RL803120",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/d0a3e93621bb.html",
+      "condition": "used"
+    },
+    {
+      "name": "MDX A-Spec SH-AWD2024 Acura",
+      "vin": "5J8YE1H05RL803690",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/e5b2aff6ec91.html",
       "condition": "used"
     },
     {
@@ -1154,6 +1160,12 @@
       "condition": "used"
     },
     {
+      "name": "F-150 LARIAT 4WD SuperCrew 6.5' Box2026 Ford",
+      "vin": "1FTFW5L87TKD28385",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/8e3b185e73b1.html",
+      "condition": "used"
+    },
+    {
       "name": "F150 4x4 - Supercrew XLT - 145 WB2022 Ford",
       "vin": "1FTEW1EP6NFB14962",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/e98a37cf3de9.html",
@@ -2000,12 +2012,6 @@
       "condition": "used"
     },
     {
-      "name": "QX50 SPORT AWD2025 Infiniti",
-      "vin": "3PCAJ5FBXSF114535",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/bb82d8ab81ac.html",
-      "condition": "used"
-    },
-    {
       "name": "QX50 Sensory AWD2025 Infiniti",
       "vin": "3PCAJ5EB6SF112525",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/17fc8d9a43e0.html",
@@ -2369,12 +2375,6 @@
       "name": "Discovery P360 R-Dynamic HSE2023 Land Rover",
       "vin": "SALRM4EU6P2473200",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/7ed4e4deac53.html",
-      "condition": "used"
-    },
-    {
-      "name": "New Range Rover P530 SE SWB - Beautiful truck!2023 Land Rover",
-      "vin": "SALKP9E74PA011644",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/a25c5f55c624.html",
       "condition": "used"
     },
     {
