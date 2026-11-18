@@ -1,7 +1,7 @@
 {
   "dealership": "Southside Nissan Ltd",
-  "generated_at": "2026-11-18T07:58:44",
-  "vehicle_count": 1362,
+  "generated_at": "2026-11-18T13:30:04",
+  "vehicle_count": 1359,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -6527,12 +6527,6 @@
     },
     {
       "name": "Kicks SR Premium AWD2026 Nissan",
-      "vin": "3N8AP6DD5TL421112",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/6d6ee4e2137f.html",
-      "condition": "new"
-    },
-    {
-      "name": "Kicks SR Premium AWD2026 Nissan",
       "vin": "3N8AP6DD7TL421872",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/6ace96559a77.html",
       "condition": "new"
@@ -6721,12 +6715,6 @@
       "name": "Kicks SV AWD2027 Nissan",
       "vin": "3N8AP6CB1VL308602",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/6e60de82796a.html",
-      "condition": "new"
-    },
-    {
-      "name": "Kicks S AWD2027 Nissan",
-      "vin": "3N8AP6BB1VL302431",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/9ee49601a3d1.html",
       "condition": "new"
     },
     {
@@ -7522,12 +7510,6 @@
       "condition": "new"
     },
     {
-      "name": "Rogue SV Moonroof2026 Nissan",
-      "vin": "JN8BT3BB4TW382846",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/a79a0d5a9002.html",
-      "condition": "new"
-    },
-    {
       "name": "Rogue Platinum2026 Nissan",
       "vin": "JN8BT3DD0TW316387",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/d46c61284bac.html",
@@ -7600,6 +7582,12 @@
       "condition": "new"
     },
     {
+      "name": "Rogue SV Moonroof2026 Nissan",
+      "vin": "JN8BT3BB7TW097249",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/2f03527e8155.html",
+      "condition": "new"
+    },
+    {
       "name": "Rogue S2026 Nissan",
       "vin": "JN8BT3AB3TW384119",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/8d50f366c4b7.html",
@@ -7663,12 +7651,6 @@
       "name": "Rogue Platinum2026 Nissan",
       "vin": "JN8BT3DDXTW489799",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/265a9269eb5d.html",
-      "condition": "new"
-    },
-    {
-      "name": "Rogue SV Moonroof2026 Nissan",
-      "vin": "JN8BT3BB8TW098975",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/298f0a7d4af4.html",
       "condition": "new"
     },
     {
@@ -7876,12 +7858,6 @@
       "condition": "new"
     },
     {
-      "name": "Rogue Platinum2026 Nissan",
-      "vin": "JN8BT3DDXTW488474",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/0e9cd7d99f64.html",
-      "condition": "new"
-    },
-    {
       "name": "Rogue SV Moonroof2026 Nissan",
       "vin": "JN8BT3BB4TW096737",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/e6f77efc1145.html",
@@ -7891,6 +7867,12 @@
       "name": "Rogue Platinum2026 Nissan",
       "vin": "JN8BT3DD4TW430053",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/1128431025a1.html",
+      "condition": "new"
+    },
+    {
+      "name": "Rogue Platinum2026 Nissan",
+      "vin": "JN8BT3DD2TW325964",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/a36c26f91b9f.html",
       "condition": "new"
     },
     {
@@ -7918,15 +7900,15 @@
       "condition": "new"
     },
     {
-      "name": "Rogue Platinum2026 Nissan",
-      "vin": "JN8BT3DD5TW493033",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/ea0149d6f9f4.html",
+      "name": "Rogue Rock Creek2026 Nissan",
+      "vin": "JN8BT3BB1TW388832",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/03787ecbf675.html",
       "condition": "new"
     },
     {
       "name": "Rogue Rock Creek2026 Nissan",
-      "vin": "JN8BT3BB1TW388832",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/03787ecbf675.html",
+      "vin": "JN8BT3BBXTW389199",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/573afc75beef.html",
       "condition": "new"
     },
     {
