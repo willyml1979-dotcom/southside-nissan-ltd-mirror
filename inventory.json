@@ -1,7 +1,7 @@
 {
   "dealership": "Southside Nissan Ltd",
-  "generated_at": "2026-11-17T22:15:22",
-  "vehicle_count": 1364,
+  "generated_at": "2026-11-18T04:44:44",
+  "vehicle_count": 1362,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -6502,12 +6502,6 @@
       "condition": "new"
     },
     {
-      "name": "Kicks SR Premium AWD2026 Nissan",
-      "vin": "3N8AP6DD6TL415349",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/fcdf4267cea3.html",
-      "condition": "new"
-    },
-    {
       "name": "Kicks S AWD2026 Nissan",
       "vin": "3N8AP6BB5TL416705",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/f284e998fd1e.html",
@@ -6900,7 +6894,7 @@
     {
       "name": "Kicks SR Premium AWD2027 Nissan",
       "vin": "3N8AP6DD6VL323306",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/36f0c57135f6.html",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/cfd5c7759ec9.html",
       "condition": "new"
     },
     {
@@ -7102,6 +7096,12 @@
       "condition": "new"
     },
     {
+      "name": "LEAF Platinum+2027 Nissan",
+      "vin": "JN1AZ2EB2VM404307",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/53ff3dc69a1a.html",
+      "condition": "new"
+    },
+    {
       "name": "LEAF SV+2027 Nissan",
       "vin": "JN1AZ2CA7VM404541",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/cbfec09429c5.html",
@@ -7283,6 +7283,12 @@
     },
     {
       "name": "Rogue Hybrid SR2027 Nissan",
+      "vin": "JN8AT4CA6VW001864",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/346529e1b326.html",
+      "condition": "new"
+    },
+    {
+      "name": "Rogue Hybrid SR2027 Nissan",
       "vin": "JN8AT4CA2VW001988",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/32301398f020.html",
       "condition": "new"
@@ -7393,12 +7399,6 @@
       "name": "Rogue Rock Creek2026 Nissan",
       "vin": "JN8BT3BB8TW376578",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/d15978aa0daa.html",
-      "condition": "new"
-    },
-    {
-      "name": "Rogue Platinum2026 Nissan",
-      "vin": "JN8BT3DD2TW482779",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/0b2cd6495f97.html",
       "condition": "new"
     },
     {
@@ -7597,12 +7597,6 @@
       "name": "Rogue S2026 Nissan",
       "vin": "JN8BT3AB6TW383689",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/f5af477a7bde.html",
-      "condition": "new"
-    },
-    {
-      "name": "Rogue SV Moonroof2026 Nissan",
-      "vin": "JN8BT3BB7TW097249",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/2f03527e8155.html",
       "condition": "new"
     },
     {
@@ -7901,14 +7895,14 @@
     },
     {
       "name": "Rogue Platinum2026 Nissan",
-      "vin": "JN8BT3DD2TW325964",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/a36c26f91b9f.html",
+      "vin": "JN8BT3DD4TW487093",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/dde43208a679.html",
       "condition": "new"
     },
     {
       "name": "Rogue Platinum2026 Nissan",
-      "vin": "JN8BT3DD4TW487093",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/dde43208a679.html",
+      "vin": "JN8BT3DD0TW482344",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/c3e33b6a1a03.html",
       "condition": "new"
     },
     {
@@ -7933,12 +7927,6 @@
       "name": "Rogue Rock Creek2026 Nissan",
       "vin": "JN8BT3BB1TW388832",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/03787ecbf675.html",
-      "condition": "new"
-    },
-    {
-      "name": "Rogue Rock Creek2026 Nissan",
-      "vin": "JN8BT3BBXTW389199",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/573afc75beef.html",
       "condition": "new"
     },
     {
@@ -8027,6 +8015,12 @@
     },
     {
       "name": "Rogue SV Dark Armor2026 Nissan",
+      "vin": "JN8BT3BB9TW389985",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/7c96c89a469c.html",
+      "condition": "new"
+    },
+    {
+      "name": "Rogue SV Dark Armor2026 Nissan",
       "vin": "JN8BT3BB1TW389818",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/f722fb1aa83b.html",
       "condition": "new"
@@ -8035,6 +8029,12 @@
       "name": "Rogue SV Dark Armor2026 Nissan",
       "vin": "JN8BT3BB3TW389898",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/8f93be0721ae.html",
+      "condition": "new"
+    },
+    {
+      "name": "Rogue SV Dark Armor2026 Nissan",
+      "vin": "JN8BT3BB4TW390753",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/8dc5e15c5296.html",
       "condition": "new"
     },
     {
@@ -8158,12 +8158,6 @@
       "condition": "new"
     },
     {
-      "name": "Sentra SV Premium2026 Nissan",
-      "vin": "3N1AB9CV7TY264209",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/90c491b4eca0.html",
-      "condition": "new"
-    },
-    {
       "name": "Sentra SR2026 Nissan",
       "vin": "3N1AB9DV6TY274955",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/617e4d422e9a.html",
@@ -8191,12 +8185,6 @@
       "name": "Sentra SR2026 Nissan",
       "vin": "3N1AB9DV3TY276307",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/83ab9767669b.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sentra SV2026 Nissan",
-      "vin": "3N1AB9CV0TY276315",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/new/b3ada99fb670.html",
       "condition": "new"
     },
     {
