@@ -1,7 +1,7 @@
 {
   "dealership": "Southside Nissan Ltd",
-  "generated_at": "2026-11-18T13:30:04",
-  "vehicle_count": 1359,
+  "generated_at": "2026-11-18T16:51:36",
+  "vehicle_count": 1360,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -210,6 +210,12 @@
       "condition": "used"
     },
     {
+      "name": "RDX SH-AWD A-Spec2023 Acura",
+      "vin": "5J8TC2H61PL804181",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/6a484739f85f.html",
+      "condition": "used"
+    },
+    {
       "name": "RDX A-Spec SH-AWD2024 Acura",
       "vin": "5J8TC2H69RL802617",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/fc7fefad06af.html",
@@ -275,6 +281,12 @@
       "name": "TLX SH-AWD A-Spec2022 Acura",
       "vin": "19UUB6F54NA800434",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/ea2985e1defd.html",
+      "condition": "used"
+    },
+    {
+      "name": "TLX A-Spec SH-AWD2023 Acura",
+      "vin": "19UUB6F57PA800382",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/1d0a69db337d.html",
       "condition": "used"
     },
     {
@@ -1796,12 +1808,6 @@
       "condition": "used"
     },
     {
-      "name": "Pilot Touring 8P2022 Honda",
-      "vin": "5FNYF6H98NB507681",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/f9f116aa3925.html",
-      "condition": "used"
-    },
-    {
       "name": "Pilot Touring 7P2022 Honda",
       "vin": "5FNYF6H61NB502988",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/e56698f623d6.html",
@@ -2009,6 +2015,12 @@
       "name": "QX50 SPORT AWD2025 Infiniti",
       "vin": "3PCAJ5FB3SF113355",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/74df5b077d31.html",
+      "condition": "used"
+    },
+    {
+      "name": "QX50 SPORT AWD2025 Infiniti",
+      "vin": "3PCAJ5FBXSF114535",
+      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/bb82d8ab81ac.html",
       "condition": "used"
     },
     {
@@ -4113,12 +4125,6 @@
       "name": "GLE53 4MATIC2022 Mercedes-Benz",
       "vin": "4JGFB6BB2NA622733",
       "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/848e1fd39846.html",
-      "condition": "used"
-    },
-    {
-      "name": "GLE53 4MATIC+ SUV2024 Mercedes-Benz",
-      "vin": "4JGFB6BB4RB069700",
-      "url": "https://willyml1979-dotcom.github.io/southside-nissan-ltd-mirror/used/aca47412e758.html",
       "condition": "used"
     },
     {
